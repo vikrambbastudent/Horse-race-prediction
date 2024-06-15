@@ -1,23 +1,31 @@
 ## Horse Racing Outcome Prediction Project
 **Overview**
+
 This project aims to predict the outcomes of horse races, specifically focusing on whether a horse will win or place. The dataset spans from 1990 to 2020 and includes detailed information on races and individual horses. Given the inherent complexity and unpredictability of horse racing, the project employs various machine learning techniques to enhance prediction accuracy.
 
 **Goals**
+
 **Primary Goal**
+
 - Predict the outcome of horse races (win or place).
 **Secondary Goals**
+  
 Identify significant features influencing race outcomes.
 - Address dataset imbalance and develop techniques to handle it effectively.
 - Create a robust prediction model using historical race data.
 **Methodology**
+  
 **1. Data Preprocessing**
+
 **Data Cleaning:**
 - Handle missing values appropriately.
 - Normalize data where necessary (e.g., times, distances).
 - Convert categorical variables to numerical representations (e.g., encoding race conditions).
 
 **Data Integration:**
+
 -Merge race and horse datasets using a unique identifier (rid) to create a comprehensive dataset for analysis.
+
 **2. Exploratory Data Analysis (EDA)**
 
 **Descriptive Statistics:**
