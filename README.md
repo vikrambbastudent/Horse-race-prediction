@@ -19,16 +19,22 @@ Identify significant features influencing race outcomes.
 **Data Integration:**
 -Merge race and horse datasets using a unique identifier (rid) to create a comprehensive dataset for analysis.
 **2. Exploratory Data Analysis (EDA)**
+
 **Descriptive Statistics:**
 
 - Calculate summary statistics for key features.
 - Visualize data distributions using histograms and other plots.
+
 **Correlation Analysis:**
 
 - Generate a correlation matrix to identify relationships between features.
 - Assess feature importance using mutual information and other relevant techniques.
+
+  
 **Visualization:**
 - Utilize scatter plots, box plots, and heatmaps to visualize data relationships and distributions.
+
+  
 **3. Model Development**
 **Model Selection:**
 - Evaluate various machine learning models (e.g., Regression, Random Forest, Gradient Boosting, Neural Networks).
