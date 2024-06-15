@@ -8,11 +8,13 @@ This project aims to predict the outcomes of horse races, specifically focusing 
 **Primary Goal**
 
 - Predict the outcome of horse races (win or place).
+  
 **Secondary Goals**
   
 Identify significant features influencing race outcomes.
 - Address dataset imbalance and develop techniques to handle it effectively.
 - Create a robust prediction model using historical race data.
+  
 **Methodology**
   
 **1. Data Preprocessing**
@@ -47,11 +49,13 @@ Identify significant features influencing race outcomes.
 **Model Selection:**
 - Evaluate various machine learning models (e.g., Regression, Random Forest, Gradient Boosting, Neural Networks).
 - Use cross-validation techniques to assess model performance.
+- 
 **Handling Imbalanced Data:**
 - Apply techniques such as SMOTE (Synthetic Minority Over-sampling Technique), under-sampling, and class weight adjustments to address data imbalance.
 Feature Selection:
 
 Implement Recursive Feature Elimination (RFE) and regularization techniques to optimize model performance and prevent overfitting.
+
 **Hyperparameter Tuning:**
 - Utilize grid search and random search to find the optimal hyperparameters for the selected models.
 
