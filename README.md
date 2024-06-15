@@ -28,21 +28,18 @@ Identify significant features influencing race outcomes.
 - Generate a correlation matrix to identify relationships between features.
 - Assess feature importance using mutual information and other relevant techniques.
 **Visualization:**
-
-Utilize scatter plots, box plots, and heatmaps to visualize data relationships and distributions.
+- Utilize scatter plots, box plots, and heatmaps to visualize data relationships and distributions.
 **3. Model Development**
 **Model Selection:**
-
-Evaluate various machine learning models (e.g., Regression, Random Forest, Gradient Boosting, Neural Networks).
-Use cross-validation techniques to assess model performance.
+- Evaluate various machine learning models (e.g., Regression, Random Forest, Gradient Boosting, Neural Networks).
+- Use cross-validation techniques to assess model performance.
 **Handling Imbalanced Data:**
-
-Apply techniques such as SMOTE (Synthetic Minority Over-sampling Technique), under-sampling, and class weight adjustments to address data imbalance.
+- Apply techniques such as SMOTE (Synthetic Minority Over-sampling Technique), under-sampling, and class weight adjustments to address data imbalance.
 Feature Selection:
 
 Implement Recursive Feature Elimination (RFE) and regularization techniques to optimize model performance and prevent overfitting.
 **Hyperparameter Tuning:**
+- Utilize grid search and random search to find the optimal hyperparameters for the selected models.
 
-Utilize grid search and random search to find the optimal hyperparameters for the selected models.
 **Conclusion**
-This README provides an overview of the horse racing outcome prediction project, detailing its objectives, methodology, and steps involved in data preprocessing, exploratory analysis, and model development. The project aims to leverage historical race data to build a reliable prediction model that enhances decision-making in horse racing outcomes.
+- This README provides an overview of the horse racing outcome prediction project, detailing its objectives, methodology, and steps involved in data preprocessing, exploratory analysis, and model development. The project aims to leverage historical race data to build a reliable prediction model that enhances decision-making in horse racing outcomes.
